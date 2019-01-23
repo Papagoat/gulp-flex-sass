@@ -1,0 +1,23 @@
+{
+  "name": "gulp-flex-sass",
+  "version": "1.0.0",
+  "description": "A bare bones boilerplate using Gulp, Sass. No Batteries Included.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-cache": "^1.1.0",
+    "gulp-rename": "^1.4.0",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-inject": "^5.0.2",
+    "gulp-livereload": "^4.0.1",
+    "gulp-open": "^3.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.11.0"
+  },
+  "author": "Terence Lucas Yap",
+  "license": "MIT"
+}
