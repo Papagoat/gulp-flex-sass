@@ -18,7 +18,7 @@ $ npm install gulp -D
 3. CD Into the working directory and install dependencies
 
 ```sh
-$ cd /gulp-bootstrap4-sass
+$ cd /gulp-flex-sass
 $ npm install
 ```
 
