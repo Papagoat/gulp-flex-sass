@@ -1,4 +1,4 @@
-# A bare bones boilerplate using Gulp, Sass. No Batteries Included. It uses [gulp.js](https://gulpjs.com/) as a task runner.
+# A bare bones boilerplate using Gulp, Sass. Batteries not included. It uses [gulp.js](https://gulpjs.com/) as a task runner.
 
 ## Acknowledgement
 * Inspired by this [post](https://dev.to/sarthology/do-we-really-need-a-css-framework-4ma6) by [Sarthak Sharma](https://github.com/sarthology) on [dev.to](https://dev.to/). Go check out his work on [Animatopy](https://sarthology.github.io/Animatopy/) if you haven't already.

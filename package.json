@@ -1,7 +1,7 @@
 {
   "name": "gulp-flex-sass",
   "version": "1.0.0",
-  "description": "A bare bones boilerplate using Gulp, Sass. No Batteries Included.",
+  "description": "A bare bones boilerplate using Gulp, Sass. Batteries not included.",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
